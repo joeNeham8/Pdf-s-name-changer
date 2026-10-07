@@ -1,1 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Uploaded PDFs
+*.pdf
+
+# Generated ZIP files
+*.zip
+
+# Output folders
+renamed_pdfs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
